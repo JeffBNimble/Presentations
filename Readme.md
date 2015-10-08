@@ -5,4 +5,4 @@
 * Coming soon!
 
 # Slides
-* ![Reactive Cocoa Introduction](slides/ReactiveCocoa3.min360iDev.pdf)
+* [Functional Reactive Programming with Reactive Cocoa 3](slides/ReactiveCocoa3.min360iDev.pdf)
