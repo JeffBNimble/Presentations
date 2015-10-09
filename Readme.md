@@ -1,5 +1,5 @@
 # Conference presentations
-* [360iDevMin](http://min.360idev.com/sessions/reactivecocoa-an-introduction/): iOS conference in Greenville, South Carolina
+* [360iDevMin](http://min.360idev.com/sessions/reactivecocoa-an-introduction/): 10/6/2015 - 10/7/2015, iOS conference in Greenville, South Carolina
 
 # Recorded Video Sessions
 * Coming soon!
