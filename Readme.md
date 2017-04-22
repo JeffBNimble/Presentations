@@ -8,7 +8,7 @@
 * [ReactiveCocoa Intro: 360iDevMin](https://vimeo.com/142314623): Presented 10/6/2015 in Greenville, South Carolina
 
 # Slides
-* [Remove the "M" from MVC](slides/RemoveMFromMVC-CocoaConf-2017.pdf)
-* [Remove the "M" from MVC](slides/RemoveMFromMVC.pdf)
+* [Remove the "M" from MVC - CocoaConf Chicago](slides/RemoveMFromMVC-CocoaConf-2017.pdf)
+* [Remove the "M" from MVC - 360iDevMin](slides/RemoveMFromMVC.pdf)
 * [Level-Up your testing approach using a BDD-style approach](slides/BDDTestingCocoaConfChicago.pdf)
 * [Functional Reactive Programming with Reactive Cocoa 3](slides/ReactiveCocoa3.min360iDev.pdf)
